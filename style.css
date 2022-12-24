@@ -1,0 +1,22 @@
+div{
+    
+    margin:100px ;
+}
+
+ .orange{
+    border: 2px solid ;
+background-color: rgb(226, 108, 30);   
+    color: rgb(238, 235, 235);
+    border-radius: 20px;
+ }
+table{
+    background: #000;
+    border:5px  solid rgb(255, 249, 249);
+}
+h1{
+    text-align: center;
+    color: rgb(102, 115, 233);
+}
+body{
+    background: #000;
+}
